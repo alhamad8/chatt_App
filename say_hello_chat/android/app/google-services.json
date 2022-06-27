@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822462004287",
+    "project_id": "sayhelloapp",
+    "storage_bucket": "sayhelloapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822462004287:android:5310883f951c4d1c14cc8a",
+        "android_client_info": {
+          "package_name": "com.example.say_hello_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822462004287-4eu3ku5v5j5ieal3ubpf8t4b3fgb19cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EdFHzCwZbrMbr6dRAJkgEdWaXQmcG-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822462004287-4eu3ku5v5j5ieal3ubpf8t4b3fgb19cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
